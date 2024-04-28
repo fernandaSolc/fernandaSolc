@@ -1,7 +1,7 @@
-# FernandaSolc 👋
+# Fernanda Oliveira 👋
 
 ## Sobre mim 🌱
-Olá! Meu nome é Fernanda Oliveira, sou uma estudante de Análise e Desenvolvimento de Sistemas em Belo Horizonte. Com 21 anos de idade, estou sempre buscando aprender e crescer na área de desenvolvimento de software. Atualmente, estou realizando um estágio na área de TI e educação, onde estou ganhando experiência prática e aplicando meus conhecimentos em projetos.
+Olá! Sou uma estudante de Análise e Desenvolvimento de Sistemas em Belo Horizonte. Com 21 anos de idade, estou sempre buscando aprender e crescer na área de desenvolvimento de software. Atualmente, estou realizando um estágio na área de TI e educação, onde estou ganhando experiência prática e aplicando meus conhecimentos em projetos.
 
 ## Principais Conhecimentos
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
