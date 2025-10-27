@@ -1,4 +1,4 @@
-# Fernanda Oliveira
+# Fernanda Solc
 
 Full Stack Developer | TypeScript, Next.js, NestJS, TailwindCSS, PostgreSQL
 
