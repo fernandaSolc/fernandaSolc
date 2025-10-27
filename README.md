@@ -3,7 +3,7 @@
 Full Stack Developer | TypeScript, Next.js, NestJS, TailwindCSS, PostgreSQL
 
 I build efficient, scalable, and modern web applications — from API architecture to user interface.  
-My focus is delivering clean, maintainable code and solid system design using cutting-edge technologies.
+My focus is delivering clean, maintainable code and system design using cutting-edge technologies.
 
 Currently working with:
 - **TypeScript** across the stack  
